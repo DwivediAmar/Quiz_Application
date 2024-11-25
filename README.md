@@ -13,6 +13,8 @@ The score is updated and displayed at the end of the quiz.<br>
 Different colors are used for the quiz options, and the application has a light green and light blue color theme.<br>
 <b>How to run:</b>
 Simply run the script, and the login window will appear. Upon successful login, the quiz starts.<br>
-![Quiz_Applicaiton](login page.png)
-<br>
-![Quiz_Application](Quiz Page.png)
+
+![Quiz Application - Login Page](login%20page.png)
+
+
+![Quiz Application - Quiz Page](Quiz%20Page.png)
