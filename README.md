@@ -1,8 +1,8 @@
-<br>This is a simple Python application built using tkinter for a quiz-based interface with a login system. The application consists of two main windows: a login window and a quiz window.
+<br>This is a simple Python application built using tkinter for a quiz-based interface with a login system. The application consists of two main windows: a login window and a quiz window.<br>
 
-Features:
-Login System:
-Users are required to log in with a username and password.
+Features:<br>
+Login System:<br>
+Users are required to log in with a username and password.<br>
 A simple validation is performed with hardcoded credentials (Python1991 / February20).
 Quiz Interface:
 After successful login, the user is directed to a quiz window.
